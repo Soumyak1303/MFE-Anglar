@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RestaurantComponent } from './restaurant.component';
 import { RouterModule, Routes } from '@angular/router';
 import { RestaurantDetailComponent } from './detail/detail.component';
-import { OrderComponent } from '../../../../../src/app/pages/order/order.component';
+import { OrderComponent } from '../../../../app3-orders/src/app/order/order.component';
 
 const routes: Routes = [
   {
